@@ -6,6 +6,12 @@ A Flutter project demonstrating integration of Dio for API calls and GetX for st
 - 🔄 Dynamic data management using GetX controllers and observables.
 - 📦 Modular architecture for scalable app development.
 
+
+## 📽 Preview
+
+![App Demo](preview/getx_dio_showcase.gif)
+
+
 ## Features
 
 - **Authentication**: Login/logout functionality with encrypted password handling.
